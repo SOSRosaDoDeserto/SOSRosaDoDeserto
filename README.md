@@ -1,6 +1,6 @@
 # SOS Rosa do Deserto 🌵🌸  
 
-![SOS Rosa do Deserto Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Desert_rose_flower.jpg/320px-Desert_rose_flower.jpg)  
+![SOS Rosa do Deserto Logo](https://github.com/SOSRosaDoDeserto/SOSRosaDoDeserto/edit/main/logo.png)  
 
 <p align="center">
   <a href="https://appinventor.mit.edu/"><img alt="MIT App Inventor" src="https://img.shields.io/badge/MIT%20App%20Inventor-Platform-blue?style=for-the-badge"></a>
