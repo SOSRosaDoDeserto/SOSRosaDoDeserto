@@ -43,21 +43,10 @@ O projeto nasceu para preencher uma lacuna tecnológica: até então, não exist
 
 ---
 
-## 📊 Resultados de Testes  
 
-- **Cochonilhas** → 100% de acerto (4/4)  
-- **Pulgões** → 75% de acerto (3/4)  
-- **Ácaros** → 50% de acerto (2/4)  
-- **Podridão** → 100% de acerto (4/4)  
-- **Plantas Saudáveis** → 100% de acerto (4/4)  
+## 🚀 Uso  
 
-Esses resultados demonstram o **potencial do app como ferramenta de manejo fitossanitário**, embora haja espaço para melhorias, especialmente na detecção de pulgões e ácaros.  
-
----
-
-## 🚀 Instalação e Uso  
-
-1. Baixe e instale o aplicativo em um dispositivo Android (APK em breve disponível).  
+1. Entre no link 
 2. Abra o **SOS Rosa do Deserto**.  
 3. Fotografe a folha ou parte da planta suspeita.  
 4. Aguarde a análise automática.  
