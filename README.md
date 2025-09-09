@@ -1,6 +1,7 @@
 # SOS Rosa do Deserto 🌵🌸  
 
-![SOS Rosa do Deserto Logo](/logo.png)  
+<img src="/logo_xxxhdpi_round.png" alt="SOS Rosa do Deserto Logo" width="20%">
+
 
 <p align="center">
   <a href="https://appinventor.mit.edu/"><img alt="MIT App Inventor" src="https://img.shields.io/badge/MIT%20App%20Inventor-Platform-blue?style=for-the-badge"></a>
