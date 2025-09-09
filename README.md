@@ -46,7 +46,7 @@ O projeto nasceu para preencher uma lacuna tecnológica: até então, não exist
 
 ## 🚀 Uso  
 
-1. Entre no link 
+1. [Entre no link do nosso projeto]([https://exemplo.com](https://huggingface.co/spaces/JoniCruz/Rosa_Deserto))
 2. Abra o **SOS Rosa do Deserto**.  
 3. Fotografe a folha ou parte da planta suspeita.  
 4. Aguarde a análise automática.  
